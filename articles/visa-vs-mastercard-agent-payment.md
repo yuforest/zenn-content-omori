@@ -1,5 +1,5 @@
 ---
-title: "Visa vs Mastercard――AIエージェント決済の設計思想が"正反対"な理由"
+title: "Visa vs Mastercard――AIエージェント決済の設計思想が'正反対'な理由"
 emoji: "💳"
 type: "tech"
 topics: ["ai", "agent", "payment", "visa", "mastercard"]

@@ -317,25 +317,13 @@ Visaは元々、VisaNetという中央集権的なネットワークで加盟店
 
 ここで重要なのは、これらのプロトコルが異なるレイヤーを担っていることだ。
 
-```mermaid
-block-beta
-  columns 1
-  block:L5["エージェント間通信レイヤー"]
-    A2A["A2A (Agent2Agent)"] MCP["MCP"]
-  end
-  block:L4["コマースプロトコルレイヤー"]
-    ACP UCP AP2
-  end
-  block:L3["エージェント認証レイヤー (RFC 9421)"]
-    TAP["TAP (Visa)"] WBA["Web Bot Auth (MC)"]
-  end
-  block:L2["決済クレデンシャルレイヤー"]
-    VT["Visa Agent Token"] MT["MC Agentic Token"] SPT["Stripe SPT"]
-  end
-  block:L1["決済ネットワーク / ステーブルコイン"]
-    VN["VisaNet"] MCN["Mastercard"] X402["x402 (Tempo, Solana)"]
-  end
-```
+| レイヤー | 役割 | 主要プロトコル / プロダクト |
+|---|---|---|
+| L5: エージェント間通信 | エージェント同士の連携 | A2A (Agent2Agent)、MCP |
+| L4: コマースプロトコル | 購入フローの標準化 | ACP、UCP、AP2 |
+| L3: エージェント認証 | 「誰がアクセスしているか」の証明 | TAP (Visa)、Web Bot Auth (MC) |
+| L2: 決済クレデンシャル | 決済情報のトークン化 | Visa Agent Token、MC Agentic Token、Stripe SPT |
+| L1: 決済ネットワーク | 実際の資金移動 | VisaNet、Mastercard、x402 (ステーブルコイン) |
 
 VisaとMastercardは決済ネットワーク(L1)こそ同じレイヤーだが、本記事で論じてきた「設計思想の違い」はL2〜L3にまたがる話だ。一方、「ACP vs UCP vs AP2」はすべてL4のコマースプロトコルレイヤーで競合している。AP2とTAPは別レイヤーなので競合ではなく、組み合わせて使う前提だ。このレイヤー構造が見えると、ニュースの読み方が変わってくる。
 

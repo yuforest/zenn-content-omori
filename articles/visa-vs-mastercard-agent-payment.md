@@ -313,7 +313,7 @@ Stripeは2026年4月のStripe Sessionsで、独自の抽象化レイヤーとし
 
 ECサイトやSaaSを運営している立場なら、選択肢は3つある。
 
-1. PSPに乗る: Stripe、Adyen、PayPal等のSPT対応PSPを使えば、両ネットワークのエージェント決済を統一APIで受けられる。実装負荷が最も軽い
+1. PSP(Payment Service Provider、決済代行)に乗る: Stripe、Adyen、PayPal等のSPT対応PSPを使えば、両ネットワークのエージェント決済を統一APIで受けられる。実装負荷が最も軽い
 2. CDNレイヤーで対応: CloudflareやAkamaiでWeb Bot Auth / TAPの署名検証を済ませる方法。マーチャント側コードはほぼ不変
 3. 直接統合: Visa AI Toolkit、Mastercard MDES API、AP2 SDKを直接叩いて自前で組む。最も柔軟だが工数が大きい
 

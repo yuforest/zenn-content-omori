@@ -3,7 +3,7 @@ title: "Visa vs Mastercard――AIエージェント決済の設計思想が"正
 emoji: "💳"
 type: "tech"
 topics: ["ai", "agent", "payment", "visa", "mastercard"]
-published: false
+published: true
 ---
 
 ## はじめに

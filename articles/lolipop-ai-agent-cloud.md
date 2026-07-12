@@ -121,7 +121,3 @@ https://lolipop.jp/ai/agent-cloud/
 - [About Hermes Agent（Nous Research 公式）](https://hermes-agent.org/about/)
 - [OpenClaw Ecosystem の整理（aimultiple）](https://aimultiple.com/openclaw)
 - [ノーコードで試せるAIエージェントの比較（経営デジタル）](https://keiei-digital.com/column/ai-agent/free-tools/)
-
----
-
-※本記事はアフィリエイトリンクを含みます。実際に契約して使った上での感想です。

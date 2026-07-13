@@ -4,6 +4,7 @@ emoji: "🦾"
 type: "tech"
 topics: ["ai", "aiエージェント", "hermes", "nousresearch", "claude"]
 published: true
+publication_name: "komlock_lab"
 ---
 
 ## セッションを閉じると忘れるAIに、もう戻れない

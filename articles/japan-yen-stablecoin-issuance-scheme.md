@@ -4,6 +4,7 @@ emoji: "🪙"
 type: "tech"
 topics: ["ステーブルコイン", "blockchain", "ethereum", "資金決済法", "fintech"]
 published: true
+publication_name: "komlock_lab"
 ---
 
 ## なぜ今、円ステーブルコインが増えているのか

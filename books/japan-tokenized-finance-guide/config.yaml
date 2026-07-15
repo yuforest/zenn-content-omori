@@ -1,0 +1,16 @@
+title: "地図でわかる 日本のトークン化金融入門 ― ステーブルコイン・セキュリティトークン・トークン化預金を1本の軸で読む"
+summary: "「何をトークンにするか × どの法律が規律するか」の2軸で、日本のトークン化金融を初心者向けに体系化する入門書。ステーブルコイン、トークン化預金（DCJPY）、セキュリティトークン（不動産・国債・株式）、暗号資産の金商法移行までを、1枚の地図の上で読み解く。実装や規格の細部には踏み込まず、専門書の前に読む最初の1冊を目指す。"
+topics: ["blockchain", "fintech", "セキュリティトークン", "ステーブルコイン", "RWA"]
+published: false
+price: 0
+toc_depth: 2
+chapters:
+  - chapter-01-map
+  - chapter-02-stablecoin
+  - chapter-03-tokenized-deposit
+  - chapter-04-security-token-realestate
+  - chapter-05-jgb-plumbing
+  - chapter-06-stock-barrier
+  - chapter-07-crypto-fiea
+  - chapter-08-players
+  - chapter-09-revisit

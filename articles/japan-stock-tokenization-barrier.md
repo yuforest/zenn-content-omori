@@ -4,6 +4,7 @@ emoji: "📉"
 type: "idea"
 topics: ["blockchain", "fintech", "セキュリティトークン", "株式", "RWA"]
 published: true
+publication_name: "komlock_lab"
 ---
 
 ## 「海外では株がトークンになった」は、少し言葉が先走っている

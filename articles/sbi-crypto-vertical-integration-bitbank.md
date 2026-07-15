@@ -4,6 +4,7 @@ emoji: "🏦"
 type: "idea"
 topics: ["crypto", "sbi", "xrp", "ステーブルコイン", "bitbank"]
 published: true
+publication_name: "komlock_lab"
 ---
 
 ## 2026年、SBIが静かに国内クリプトを「面」で押さえた

@@ -4,6 +4,7 @@ emoji: "🏛️"
 type: "idea"
 topics: ["blockchain", "セキュリティトークン", "国債", "RWA", "fintech"]
 published: true
+publication_name: "komlock_lab"
 ---
 
 ## 世界のRWA最大カテゴリは、実は「国債」

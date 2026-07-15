@@ -4,6 +4,7 @@ emoji: "🏢"
 type: "idea"
 topics: ["blockchain", "セキュリティトークン", "不動産", "fintech", "RWA"]
 published: true
+publication_name: "komlock_lab"
 ---
 
 ## 静かに1兆円に届こうとしている市場

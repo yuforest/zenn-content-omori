@@ -4,6 +4,7 @@ emoji: "⚖️"
 type: "idea"
 topics: ["crypto", "暗号資産", "資金決済法", "fintech", "blockchain"]
 published: true
+publication_name: "komlock_lab"
 ---
 
 ## 個別ニュースに見えて、根っこは「1つの再分類」

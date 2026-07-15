@@ -4,6 +4,7 @@ emoji: "🏦"
 type: "idea"
 topics: ["blockchain", "fintech", "ステーブルコイン", "DCJPY", "決済"]
 published: true
+publication_name: "komlock_lab"
 ---
 
 ## 円のデジタル通貨は「ステーブルコイン」だけではない

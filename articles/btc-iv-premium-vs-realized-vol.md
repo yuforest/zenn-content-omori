@@ -3,6 +3,7 @@ title: "ビットコインの保険料は高すぎるのか？予想変動率と
 emoji: "🛡️"
 type: "tech"
 topics: ["ビットコイン", "オプション", "ボラティリティ", "deribit", "python"]
+publication_name: "komlock_lab"
 published: true
 ---
 

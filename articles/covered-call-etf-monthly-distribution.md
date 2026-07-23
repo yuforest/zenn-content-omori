@@ -3,6 +3,7 @@ title: "高分配ETFはなぜ毎月お金を配れるのか？オプションを
 emoji: "🪙"
 type: "idea"
 topics: ["投資", "etf", "オプション", "資産運用", "初心者"]
+publication_name: "komlock_lab"
 published: true
 ---
 

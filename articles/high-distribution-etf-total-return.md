@@ -3,6 +3,7 @@ title: "高分配ETFの分配金は、本当に利益なのか？分配利回り
 emoji: "🧾"
 type: "idea"
 topics: ["投資", "etf", "資産運用", "初心者", "配当"]
+publication_name: "komlock_lab"
 published: true
 ---
 

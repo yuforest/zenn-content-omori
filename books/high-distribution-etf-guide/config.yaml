@@ -1,0 +1,13 @@
+title: "分配金は、どこから来るのか ― 高分配ETFの仕組みを初心者向けに読み解く"
+summary: "JEPI・JEPQ・QYLD・SPYI・YieldMaxといった高分配ETFが、なぜ年率10%や数十%もの分配金を出せるのかを、株式投資を始めたばかりの人向けに解説する本。中心にあるのは1つの考え方——高い分配金は無料で湧いてくるのではなく、将来の値上がり益や価格変動のリスクと引き換えに、いまの現金として受け取っているものだということ。仕組み（カバードコール）、商品ごとの違い、分配利回りとトータルリターンの差、YieldMaxの合成ロングとIVまでを、100万円の具体例と公式資料で読み解く。投資助言ではなく、仕組みを理解して落ち着いて判断するための一冊。"
+topics: ["投資", "etf", "オプション", "資産運用", "配当"]
+published: false
+price: 0
+toc_depth: 2
+chapters:
+  - chapter-01-intro
+  - chapter-02-mechanism
+  - chapter-03-comparison
+  - chapter-04-total-return
+  - chapter-05-yieldmax
+  - chapter-06-closing

@@ -3,7 +3,7 @@ title: "Kaleidoとは何か？ トークン化金融を支える「運用レイ�
 emoji: "🧩"
 type: "idea"
 topics: ["ブロックチェーン", "トークン化", "RWA", "金融", "Kaleido"]
-published: false
+published: true
 publication_name: "komlock_lab"
 ---
 

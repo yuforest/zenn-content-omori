@@ -3,7 +3,7 @@ title: "IBITのビットコインはどこにある？ カストディとオン�
 emoji: "🔐"
 type: "idea"
 topics: ["ビットコイン", "暗号資産", "etf", "投資", "ブロックチェーン"]
-published: false
+published: true
 publication_name: "komlock_lab"
 ---
 

@@ -113,7 +113,7 @@ BTCを直接持っていた人は土日に売買できます。IBITを持って�
 - 選び方：全122組を上記の時刻で計算し、BTC変化率の絶対値が大きい上位3組を掲載
 - 取得・分析日：2026年9月16日
 
-再計算スクリプト、全122組の結果、図の作成コードはリポジトリに置いています。
+再現に使った[分析スクリプト（GitHub）](https://github.com/yuforest/zenn-content-omori/blob/a91cabd/analysis/crypto_etf_weekend_gap.py)と、全122組の結果・図の作成方法は[データREADME（GitHub）](https://github.com/yuforest/zenn-content-omori/blob/a91cabd/data/crypto-etf-03-weekend-price/README.md)にまとめています。スクリプトを取得したうえで、次のコマンドを実行してください。
 
 ```bash
 uv run --with pandas==2.2.3 --with matplotlib==3.10.5 python analysis/crypto_etf_weekend_gap.py

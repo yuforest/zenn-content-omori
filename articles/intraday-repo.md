@@ -38,9 +38,13 @@ published: false
 
 売買・再売買型のレポでは、開始時に債券を売って代金を受け取り、終了時に合意した代金を支払って同種・同量の債券を買い戻します。日本では現先取引と呼ばれる形式です。売買なので、開始時に債券の所有権は資金供給側へ移ります。資金を調達する側は一時的に現金を確保でき、供給する側はその期間の資金を運用できます。[日本証券業協会の定義](https://www.jsda.or.jp/shijyo/seido/jishukisei/words/0281.html)
 
+![現先型レポの開始と終了における国債・資金の受渡し](/images/intraday-repo-generic-repo.png)
+
 オンチェーン化によって期待されるのは、この取引の開始・終了を資金需要に合わせて運用しやすくすることです。最初に合意した対象証券や代金、満期の条件を記録し、開始時の決済と満期の受渡しへつなぎます。レポが資金調達の取引であり、オンチェーン化はその記録や処理を接続する方法です。
 
 J.P. MorganのKinexys、HQLAx、Owneraの連携では、日中レポの稼働開始と取引実行が2025年8月に発表されました。HQLAxが証券の権利移転、Kinexysがブロックチェーン預金口座による資金決済を担い、Owneraが両者を接続します。開始と満期の時刻を分単位で指定できるとされています。資金を必要とする時間帯と、供給者が運用できる時間帯を合わせる実装です。[連携の公式発表](https://www.hqla-x.com/post/j-p-morgan-hqlax-and-ownera-launch-intraday-repo-solution-with-5bn-traded-in-the-first-month)
+
+![HQLAx、Ownera、Kinexysによる証券と資金の接続](/images/intraday-repo-platform-connection.png)
 
 当日決済のレポは既存方式でも行われています。比較するのは、短時間の取引をどの参加者と行え、決済や満期管理にどれだけ手間がかかるかです。[債券現先取引等研究会の業務資料](https://market.jsda.or.jp/shijyo/saiken/chousa/kenkyukai/index.html)
 

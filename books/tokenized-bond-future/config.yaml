@@ -1,5 +1,5 @@
 title: "トークン化債券が変える金融の未来"
-summary: "国債・社債・レポをつなぐ金融インフラを、権利・記録・資金・責任の4つの視点で読み解く。債券の基礎から、担保利用、DvP、売掛債権との比較、事業設計まで。金融を専門としないエンジニアのための入門〜中級書。現在は第I・II部の初稿。"
+summary: "国債・社債・レポをつなぐ金融インフラを、権利・記録・資金・責任の4つの視点で読み解く。債券の基礎から、担保利用、DvP、売掛債権との比較、事業設計まで。金融を専門としないエンジニアのための入門〜中級書。"
 topics: ["blockchain", "rwa", "fintech", "債券", "セキュリティトークン"]
 published: false
 price: 0
@@ -13,3 +13,9 @@ chapters:
   - chapter-06-dvp
   - chapter-07-repo
   - chapter-08-intraday
+  - chapter-09-corporate-bonds
+  - chapter-10-receivables
+  - chapter-11-municipal-bonds
+  - chapter-12-operations
+  - chapter-13-business-models
+  - chapter-14-future
